@@ -1,0 +1,67 @@
+# TRUE GLOW FX INDEX V4.3
+# Format: NUMBER|DISPLAY NAME|FILENAME
+# Files are located in repository root
+01|Candle Flame|FX_TEST_01_Candle_Flame.txt
+02|Wind-Blown Candle|FX_TEST_02_Wind_Blown_Candle.txt
+03|Fireplace|FX_TEST_03_Fireplace.txt
+04|Campfire|FX_TEST_04_Campfire.txt
+05|Torch|FX_TEST_05_Torch.txt
+06|Bonfire|FX_TEST_06_Bonfire.txt
+07|Dying Embers|FX_TEST_07_Dying_Embers.txt
+08|Inferno|FX_TEST_08_Inferno.txt
+09|Distant Lightning|FX_TEST_09_Distant_Lightning.txt
+10|Violent Storm|FX_TEST_10_Violent_Storm.txt
+11|Rolling Thunder|FX_TEST_11_Rolling_Thunder.txt
+12|Cloud Shadows|FX_TEST_12_Cloud_Shadows.txt
+13|Underwater Caustics|FX_TEST_13_Underwater_Caustics.txt
+14|Moonlight Shimmer|FX_TEST_14_Moonlight_Shimmer.txt
+15|Sunlight Through Trees|FX_TEST_15_Sunlight_Through_Trees.txt
+16|Aurora|FX_TEST_16_Aurora.txt
+17|Reactor Core|FX_TEST_17_Reactor_Core.txt
+18|Energy Surge|FX_TEST_18_Energy_Surge.txt
+19|Plasma Arc|FX_TEST_19_Plasma_Arc.txt
+20|Hologram|FX_TEST_20_Hologram.txt
+21|Portal|FX_TEST_21_Portal.txt
+22|Warp Drive|FX_TEST_22_Warp_Drive.txt
+23|Alien Pulse|FX_TEST_23_Alien_Pulse.txt
+24|Power Failure|FX_TEST_24_Power_Failure.txt
+25|Haunted House|FX_TEST_25_Haunted_House.txt
+26|Failing Bulb|FX_TEST_26_Failing_Bulb.txt
+27|Possession|FX_TEST_27_Possession.txt
+28|Ghost Presence|FX_TEST_28_Ghost_Presence.txt
+29|Paranormal Surge|FX_TEST_29_Paranormal_Surge.txt
+30|Ritual Chamber|FX_TEST_30_Ritual_Chamber.txt
+31|Blood Moon|FX_TEST_31_Blood_Moon.txt
+32|Heartbeat Horror|FX_TEST_32_Heartbeat_Horror.txt
+33|Neon Breathing|FX_TEST_33_Neon_Breathing.txt
+34|RGB Color Flow|FX_TEST_34_RGB_Color_Flow.txt
+35|Club Strobe|FX_TEST_35_Club_Strobe.txt
+36|Beat Pulse|FX_TEST_36_Beat_Pulse.txt
+37|Color Chase|FX_TEST_37_Color_Chase.txt
+38|Crossfade|FX_TEST_38_Crossfade.txt
+39|Laser Illusion|FX_TEST_39_Laser_Illusion.txt
+40|Disco Chaos|FX_TEST_40_Disco_Chaos.txt
+41|Arcane Glow|FX_TEST_41_Arcane_Glow.txt
+42|Mana Surge|FX_TEST_42_Mana_Surge.txt
+43|Spell Casting|FX_TEST_43_Spell_Casting.txt
+44|Enchanted Flame|FX_TEST_44_Enchanted_Flame.txt
+45|Healing Aura|FX_TEST_45_Healing_Aura.txt
+46|Dark Magic|FX_TEST_46_Dark_Magic.txt
+47|Summoning Portal|FX_TEST_47_Summoning_Portal.txt
+48|Divine Radiance|FX_TEST_48_Divine_Radiance.txt
+49|Soft Breathing|FX_TEST_49_Soft_Breathing.txt
+50|Film Projector|FX_TEST_50_Film_Projector.txt
+51|Television Glow|FX_TEST_51_Television_Glow.txt
+52|Passing Headlights|FX_TEST_52_Passing_Headlights.txt
+53|Sunrise|FX_TEST_53_Sunrise.txt
+54|Sunset|FX_TEST_54_Sunset.txt
+55|Dream Sequence|FX_TEST_55_Dream_Sequence.txt
+56|Cinematic Reveal|FX_TEST_56_Cinematic_Reveal.txt
+57|Triple-Lamp Chase|FX_TEST_57_Triple_Lamp_Chase.txt
+58|Color Orbit|FX_TEST_58_Color_Orbit.txt
+59|Random Walk|FX_TEST_59_Random_Walk.txt
+60|Wave Interference|FX_TEST_60_Wave_Interference.txt
+61|Organic Chaos|FX_TEST_61_Organic_Chaos.txt
+62|Breathing Spectrum|FX_TEST_62_Breathing_Spectrum.txt
+63|Light Echo|FX_TEST_63_Light_Echo.txt
+64|Custom Sequencer|FX_TEST_64_Custom_Sequencer.txt
