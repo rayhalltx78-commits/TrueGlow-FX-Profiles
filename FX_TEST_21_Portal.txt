@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 21: Portal
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=21
+KELVIN=7500
+COLOR=<0.25,0.85,1.0>
+BRIGHTNESS=0.90
+SPEED=.30
+
+[LIGHT:Blue]
+MODE=21
+KELVIN=5500
+COLOR=<0.80,0.25,1.0>
+BRIGHTNESS=0.65
+SPEED=.30
+
+[LIGHT:Green]
+MODE=21
+KELVIN=6500
+COLOR=<0.25,1.0,0.65>
+BRIGHTNESS=0.55
+SPEED=.30

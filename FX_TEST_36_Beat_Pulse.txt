@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 36: Beat Pulse
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=36
+KELVIN=6500
+COLOR=<1.0,0.22,0.55>
+BRIGHTNESS=0.95
+SPEED=.30
+
+[LIGHT:Blue]
+MODE=36
+KELVIN=6500
+COLOR=<0.20,0.70,1.0>
+BRIGHTNESS=0.85
+SPEED=.30
+
+[LIGHT:Green]
+MODE=36
+KELVIN=6500
+COLOR=<0.40,1.0,0.25>
+BRIGHTNESS=0.75
+SPEED=.30

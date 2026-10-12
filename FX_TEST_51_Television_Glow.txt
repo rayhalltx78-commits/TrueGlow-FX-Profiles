@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 51: Television Glow
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=51
+KELVIN=3200
+COLOR=<1.0,0.80,0.65>
+BRIGHTNESS=0.85
+SPEED=.55
+
+[LIGHT:Blue]
+MODE=51
+KELVIN=6500
+COLOR=<0.50,0.72,1.0>
+BRIGHTNESS=0.65
+SPEED=.55
+
+[LIGHT:Green]
+MODE=51
+KELVIN=4500
+COLOR=<0.85,0.65,0.85>
+BRIGHTNESS=0.50
+SPEED=.55

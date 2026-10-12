@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 12: Cloud Shadows
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=12
+KELVIN=6500
+COLOR=<0.80,0.88,1.0>
+BRIGHTNESS=0.85
+SPEED=.35
+
+[LIGHT:Blue]
+MODE=12
+KELVIN=8500
+COLOR=<0.55,0.75,1.0>
+BRIGHTNESS=0.60
+SPEED=.35
+
+[LIGHT:Green]
+MODE=12
+KELVIN=5200
+COLOR=<0.75,0.95,1.0>
+BRIGHTNESS=0.45
+SPEED=.35

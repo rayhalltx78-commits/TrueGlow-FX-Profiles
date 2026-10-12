@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 43: Spell Casting
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=43
+KELVIN=4000
+COLOR=<0.72,0.38,1.0>
+BRIGHTNESS=0.85
+SPEED=.40
+
+[LIGHT:Blue]
+MODE=43
+KELVIN=6500
+COLOR=<0.20,0.85,1.0>
+BRIGHTNESS=0.65
+SPEED=.40
+
+[LIGHT:Green]
+MODE=43
+KELVIN=3000
+COLOR=<1.0,0.55,0.30>
+BRIGHTNESS=0.55
+SPEED=.40

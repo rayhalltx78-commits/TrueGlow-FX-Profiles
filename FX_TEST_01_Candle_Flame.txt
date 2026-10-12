@@ -1,0 +1,36 @@
+# TRUE GLOW V4.3 TEST PROFILE 01: Candle Flame
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=1
+KELVIN=1800
+COLOR=<1.0,0.62,0.30>
+BRIGHTNESS=0.90
+SPEED=.18
+SHIMMER=0.18
+WIND=0.30
+GUST=0.22
+RECOVERY=0.24
+
+[LIGHT:Blue]
+MODE=1
+KELVIN=2200
+COLOR=<1.0,0.75,0.43>
+BRIGHTNESS=0.65
+SPEED=.18
+SHIMMER=0.18
+WIND=0.30
+GUST=0.22
+RECOVERY=0.24
+
+[LIGHT:Green]
+MODE=1
+KELVIN=2800
+COLOR=<1.0,0.48,0.20>
+BRIGHTNESS=0.45
+SPEED=.18
+SHIMMER=0.18
+WIND=0.30
+GUST=0.22
+RECOVERY=0.24

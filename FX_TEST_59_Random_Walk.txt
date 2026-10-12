@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 59: Random Walk
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=59
+KELVIN=6500
+COLOR=<1.0,0.35,0.40>
+BRIGHTNESS=0.90
+SPEED=.30
+
+[LIGHT:Blue]
+MODE=59
+KELVIN=6500
+COLOR=<0.30,0.55,1.0>
+BRIGHTNESS=0.75
+SPEED=.30
+
+[LIGHT:Green]
+MODE=59
+KELVIN=6500
+COLOR=<0.35,1.0,0.60>
+BRIGHTNESS=0.60
+SPEED=.30

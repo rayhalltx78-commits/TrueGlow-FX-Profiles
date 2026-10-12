@@ -1,0 +1,24 @@
+# TRUE GLOW V4.3 TEST PROFILE 32: Heartbeat Horror
+# All three lamps run the same mode; different colors/intensities reveal routing.
+# For test comparison, load one profile at a time and observe 15-30 seconds.
+
+[LIGHT:Red]
+MODE=32
+KELVIN=2600
+COLOR=<1.0,0.25,0.20>
+BRIGHTNESS=0.78
+SPEED=.45
+
+[LIGHT:Blue]
+MODE=32
+KELVIN=8000
+COLOR=<0.30,0.55,1.0>
+BRIGHTNESS=0.55
+SPEED=.45
+
+[LIGHT:Green]
+MODE=32
+KELVIN=4000
+COLOR=<0.65,0.30,0.75>
+BRIGHTNESS=0.35
+SPEED=.45
