@@ -1,122 +1,123 @@
-# TRUE GLOW FX INDEX - 120 PROFILE EXPANSION (STAGING)
+# TRUE GLOW FX INDEX V4.6 - 120 PROFILES
 # Format: NUMBER|DISPLAY NAME|FILENAME|CATEGORY
-01|Candle Flame|FX_TEST_01_Candle_Flame.txt|Fire & Flame
-02|Wind-Blown Candle|FX_TEST_02_Wind_Blown_Candle.txt|Fire & Flame
-03|Fireplace|FX_TEST_03_Fireplace.txt|Fire & Flame
-04|Campfire|FX_TEST_04_Campfire.txt|Fire & Flame
-05|Torch|FX_TEST_05_Torch.txt|Fire & Flame
-06|Bonfire|FX_TEST_06_Bonfire.txt|Fire & Flame
-07|Dying Embers|FX_TEST_07_Dying_Embers.txt|Fire & Flame
-08|Inferno|FX_TEST_08_Inferno.txt|Fire & Flame
-09|Distant Lightning|FX_TEST_09_Distant_Lightning.txt|Weather & Nature
-10|Violent Storm|FX_TEST_10_Violent_Storm.txt|Weather & Nature
-11|Rolling Thunder|FX_TEST_11_Rolling_Thunder.txt|Weather & Nature
-12|Cloud Shadows|FX_TEST_12_Cloud_Shadows.txt|Weather & Nature
-13|Underwater Caustics|FX_TEST_13_Underwater_Caustics.txt|Weather & Nature
-14|Moonlight Shimmer|FX_TEST_14_Moonlight_Shimmer.txt|Weather & Nature
-15|Sunlight Through Trees|FX_TEST_15_Sunlight_Through_Trees.txt|Weather & Nature
-16|Aurora|FX_TEST_16_Aurora.txt|Weather & Nature
-17|Reactor Core|FX_TEST_17_Reactor_Core.txt|Sci-Fi & Energy
-18|Energy Surge|FX_TEST_18_Energy_Surge.txt|Sci-Fi & Energy
-19|Plasma Arc|FX_TEST_19_Plasma_Arc.txt|Sci-Fi & Energy
-20|Hologram|FX_TEST_20_Hologram.txt|Sci-Fi & Energy
-21|Portal|FX_TEST_21_Portal.txt|Sci-Fi & Energy
-22|Warp Drive|FX_TEST_22_Warp_Drive.txt|Sci-Fi & Energy
-23|Alien Pulse|FX_TEST_23_Alien_Pulse.txt|Sci-Fi & Energy
-24|Power Failure|FX_TEST_24_Power_Failure.txt|Sci-Fi & Energy
-25|Haunted House|FX_TEST_25_Haunted_House.txt|Horror & Paranormal
-26|Failing Bulb|FX_TEST_26_Failing_Bulb.txt|Horror & Paranormal
-27|Possession|FX_TEST_27_Possession.txt|Horror & Paranormal
-28|Ghost Presence|FX_TEST_28_Ghost_Presence.txt|Horror & Paranormal
-29|Paranormal Surge|FX_TEST_29_Paranormal_Surge.txt|Horror & Paranormal
-30|Ritual Chamber|FX_TEST_30_Ritual_Chamber.txt|Horror & Paranormal
-31|Blood Moon|FX_TEST_31_Blood_Moon.txt|Horror & Paranormal
-32|Heartbeat Horror|FX_TEST_32_Heartbeat_Horror.txt|Horror & Paranormal
-33|Neon Breathing|FX_TEST_33_Neon_Breathing.txt|Nightclub & Neon
-34|RGB Color Flow|FX_TEST_34_RGB_Color_Flow.txt|Nightclub & Neon
-35|Club Strobe|FX_TEST_35_Club_Strobe.txt|Nightclub & Neon
-36|Beat Pulse|FX_TEST_36_Beat_Pulse.txt|Nightclub & Neon
-37|Color Chase|FX_TEST_37_Color_Chase.txt|Nightclub & Neon
-38|Crossfade|FX_TEST_38_Crossfade.txt|Nightclub & Neon
-39|Laser Illusion|FX_TEST_39_Laser_Illusion.txt|Nightclub & Neon
-40|Disco Chaos|FX_TEST_40_Disco_Chaos.txt|Nightclub & Neon
-41|Arcane Glow|FX_TEST_41_Arcane_Glow.txt|Magic & Fantasy
-42|Mana Surge|FX_TEST_42_Mana_Surge.txt|Magic & Fantasy
-43|Spell Casting|FX_TEST_43_Spell_Casting.txt|Magic & Fantasy
-44|Enchanted Flame|FX_TEST_44_Enchanted_Flame.txt|Magic & Fantasy
-45|Healing Aura|FX_TEST_45_Healing_Aura.txt|Magic & Fantasy
-46|Dark Magic|FX_TEST_46_Dark_Magic.txt|Magic & Fantasy
-47|Summoning Portal|FX_TEST_47_Summoning_Portal.txt|Magic & Fantasy
-48|Divine Radiance|FX_TEST_48_Divine_Radiance.txt|Magic & Fantasy
-49|Soft Breathing|FX_TEST_49_Soft_Breathing.txt|Cinema & Atmosphere
-50|Film Projector|FX_TEST_50_Film_Projector.txt|Cinema & Atmosphere
-51|Television Glow|FX_TEST_51_Television_Glow.txt|Cinema & Atmosphere
-52|Passing Headlights|FX_TEST_52_Passing_Headlights.txt|Cinema & Atmosphere
-53|Sunrise|FX_TEST_53_Sunrise.txt|Cinema & Atmosphere
-54|Sunset|FX_TEST_54_Sunset.txt|Cinema & Atmosphere
-55|Dream Sequence|FX_TEST_55_Dream_Sequence.txt|Cinema & Atmosphere
-56|Cinematic Reveal|FX_TEST_56_Cinematic_Reveal.txt|Cinema & Atmosphere
-57|Triple-Lamp Chase|FX_TEST_57_Triple_Lamp_Chase.txt|Experimental
-58|Color Orbit|FX_TEST_58_Color_Orbit.txt|Experimental
-59|Random Walk|FX_TEST_59_Random_Walk.txt|Experimental
-60|Wave Interference|FX_TEST_60_Wave_Interference.txt|Experimental
-61|Organic Chaos|FX_TEST_61_Organic_Chaos.txt|Experimental
-62|Breathing Spectrum|FX_TEST_62_Breathing_Spectrum.txt|Experimental
-63|Light Echo|FX_TEST_63_Light_Echo.txt|Experimental
-64|Custom Sequencer|FX_TEST_64_Custom_Sequencer.txt|Experimental
-65|Rembrandt Studio|FX_TEST_65_Rembrandt_Studio.txt|Studio Photography
-66|Butterfly Beauty|FX_TEST_66_Butterfly_Beauty.txt|Studio Photography
-67|Split Portrait|FX_TEST_67_Split_Portrait.txt|Studio Photography
-68|Loop Lighting|FX_TEST_68_Loop_Lighting.txt|Studio Photography
-69|Clamshell Beauty|FX_TEST_69_Clamshell_Beauty.txt|Studio Photography
-70|High-Key Studio|FX_TEST_70_High_Key_Studio.txt|Studio Photography
-71|Low-Key Dramatic|FX_TEST_71_Low_Key_Dramatic.txt|Studio Photography
-72|Three-Point Studio|FX_TEST_72_Three_Point_Studio.txt|Studio Photography
-73|Theater Spotlight|FX_TEST_73_Theater_Spotlight.txt|Stage Lighting
-74|Concert Wash|FX_TEST_74_Concert_Wash.txt|Stage Lighting
-75|Moving Stage Lights|FX_TEST_75_Moving_Stage_Lights.txt|Stage Lighting
-76|Rock Concert|FX_TEST_76_Rock_Concert.txt|Stage Lighting
-77|Theater Fade|FX_TEST_77_Theater_Fade.txt|Stage Lighting
-78|Follow Spotlight|FX_TEST_78_Follow_Spotlight.txt|Stage Lighting
-79|Stage Color Chase|FX_TEST_79_Stage_Color_Chase.txt|Stage Lighting
-80|Grand Finale|FX_TEST_80_Grand_Finale.txt|Stage Lighting
-81|Police Red & Blue|FX_TEST_81_Police_Red_Blue.txt|Emergency Lighting
-82|Fire Engine Red|FX_TEST_82_Fire_Engine_Red.txt|Emergency Lighting
-83|Ambulance Emergency|FX_TEST_83_Ambulance_Emergency.txt|Emergency Lighting
-84|Hazard Warning|FX_TEST_84_Hazard_Warning.txt|Emergency Lighting
-85|Emergency Strobe|FX_TEST_85_Emergency_Strobe.txt|Emergency Lighting
-86|Security Alarm|FX_TEST_86_Security_Alarm.txt|Emergency Lighting
-87|Evacuation Lighting|FX_TEST_87_Evacuation_Lighting.txt|Emergency Lighting
-88|Power Failure|FX_TEST_88_Power_Failure.txt|Emergency Lighting
-89|Shallow Water|FX_TEST_89_Shallow_Water.txt|Underwater
-90|Deep Ocean|FX_TEST_90_Deep_Ocean.txt|Underwater
-91|Swimming Pool|FX_TEST_91_Swimming_Pool.txt|Underwater
-92|Tropical Reef|FX_TEST_92_Tropical_Reef.txt|Underwater
-93|Underwater Caustics|FX_TEST_93_Underwater_Caustics.txt|Underwater
-94|Submarine Interior|FX_TEST_94_Submarine_Interior.txt|Underwater
-95|Bioluminescent Depths|FX_TEST_95_Bioluminescent_Depths.txt|Underwater
-96|Abyssal Darkness|FX_TEST_96_Abyssal_Darkness.txt|Underwater
-97|Cozy Living Room|FX_TEST_97_Cozy_Living_Room.txt|Ambient Room Lighting
-98|Warm Bedroom|FX_TEST_98_Warm_Bedroom.txt|Ambient Room Lighting
-99|Romantic Candlelight|FX_TEST_99_Romantic_Candlelight.txt|Ambient Room Lighting
-100|Modern Apartment|FX_TEST_100_Modern_Apartment.txt|Ambient Room Lighting
-101|Fireplace Ambience|FX_TEST_101_Fireplace_Ambience.txt|Ambient Room Lighting
-102|Soft Nightlight|FX_TEST_102_Soft_Nightlight.txt|Ambient Room Lighting
-103|Luxury Lounge|FX_TEST_103_Luxury_Lounge.txt|Ambient Room Lighting
-104|Relaxing Spa|FX_TEST_104_Relaxing_Spa.txt|Ambient Room Lighting
-105|Disco Color Chase|FX_TEST_105_Disco_Color_Chase.txt|Club & Dance Lighting
-106|RGB Dance Floor|FX_TEST_106_RGB_Dance_Floor.txt|Club & Dance Lighting
-107|EDM Bass Pulse|FX_TEST_107_EDM_Bass_Pulse.txt|Club & Dance Lighting
-108|Techno Strobe|FX_TEST_108_Techno_Strobe.txt|Club & Dance Lighting
-109|Rave Rainbow|FX_TEST_109_Rave_Rainbow.txt|Club & Dance Lighting
-110|UV Blacklight|FX_TEST_110_UV_Blacklight.txt|Club & Dance Lighting
-111|Laser Club Simulation|FX_TEST_111_Laser_Club_Simulation.txt|Club & Dance Lighting
-112|DJ Booth Glow|FX_TEST_112_DJ_Booth_Glow.txt|Club & Dance Lighting
-113|Club Spotlight|FX_TEST_113_Club_Spotlight.txt|Club & Dance Lighting
-114|Neon Color Fade|FX_TEST_114_Neon_Color_Fade.txt|Club & Dance Lighting
-115|Trance Wave|FX_TEST_115_Trance_Wave.txt|Club & Dance Lighting
-116|House Music Pulse|FX_TEST_116_House_Music_Pulse.txt|Club & Dance Lighting
-117|Cyberpunk Club|FX_TEST_117_Cyberpunk_Club.txt|Club & Dance Lighting
-118|VIP Lounge|FX_TEST_118_VIP_Lounge.txt|Club & Dance Lighting
-119|Dance Floor Blackout|FX_TEST_119_Dance_Floor_Blackout.txt|Club & Dance Lighting
-120|Festival Finale|FX_TEST_120_Festival_Finale.txt|Club & Dance Lighting
+# Files are located in repository root
+01|Candle Flame|FX_TEST_01_Candle_Flame.txt|1
+02|Wind-Blown Candle|FX_TEST_02_Wind_Blown_Candle.txt|1
+03|Fireplace|FX_TEST_03_Fireplace.txt|1
+04|Campfire|FX_TEST_04_Campfire.txt|1
+05|Torch|FX_TEST_05_Torch.txt|1
+06|Bonfire|FX_TEST_06_Bonfire.txt|1
+07|Dying Embers|FX_TEST_07_Dying_Embers.txt|1
+08|Inferno|FX_TEST_08_Inferno.txt|1
+09|Distant Lightning|FX_TEST_09_Distant_Lightning.txt|2
+10|Violent Storm|FX_TEST_10_Violent_Storm.txt|2
+11|Rolling Thunder|FX_TEST_11_Rolling_Thunder.txt|2
+12|Cloud Shadows|FX_TEST_12_Cloud_Shadows.txt|2
+13|Underwater Caustics|FX_TEST_13_Underwater_Caustics.txt|2
+14|Moonlight Shimmer|FX_TEST_14_Moonlight_Shimmer.txt|2
+15|Sunlight Through Trees|FX_TEST_15_Sunlight_Through_Trees.txt|2
+16|Aurora|FX_TEST_16_Aurora.txt|2
+17|Reactor Core|FX_TEST_17_Reactor_Core.txt|3
+18|Energy Surge|FX_TEST_18_Energy_Surge.txt|3
+19|Plasma Arc|FX_TEST_19_Plasma_Arc.txt|3
+20|Hologram|FX_TEST_20_Hologram.txt|3
+21|Portal|FX_TEST_21_Portal.txt|3
+22|Warp Drive|FX_TEST_22_Warp_Drive.txt|3
+23|Alien Pulse|FX_TEST_23_Alien_Pulse.txt|3
+24|Power Failure|FX_TEST_24_Power_Failure.txt|3
+25|Haunted House|FX_TEST_25_Haunted_House.txt|4
+26|Failing Bulb|FX_TEST_26_Failing_Bulb.txt|4
+27|Possession|FX_TEST_27_Possession.txt|4
+28|Ghost Presence|FX_TEST_28_Ghost_Presence.txt|4
+29|Paranormal Surge|FX_TEST_29_Paranormal_Surge.txt|4
+30|Ritual Chamber|FX_TEST_30_Ritual_Chamber.txt|4
+31|Blood Moon|FX_TEST_31_Blood_Moon.txt|4
+32|Heartbeat Horror|FX_TEST_32_Heartbeat_Horror.txt|4
+33|Neon Breathing|FX_TEST_33_Neon_Breathing.txt|5
+34|RGB Color Flow|FX_TEST_34_RGB_Color_Flow.txt|5
+35|Club Strobe|FX_TEST_35_Club_Strobe.txt|5
+36|Beat Pulse|FX_TEST_36_Beat_Pulse.txt|5
+37|Color Chase|FX_TEST_37_Color_Chase.txt|5
+38|Crossfade|FX_TEST_38_Crossfade.txt|5
+39|Laser Illusion|FX_TEST_39_Laser_Illusion.txt|5
+40|Disco Chaos|FX_TEST_40_Disco_Chaos.txt|5
+41|Arcane Glow|FX_TEST_41_Arcane_Glow.txt|6
+42|Mana Surge|FX_TEST_42_Mana_Surge.txt|6
+43|Spell Casting|FX_TEST_43_Spell_Casting.txt|6
+44|Enchanted Flame|FX_TEST_44_Enchanted_Flame.txt|6
+45|Healing Aura|FX_TEST_45_Healing_Aura.txt|6
+46|Dark Magic|FX_TEST_46_Dark_Magic.txt|6
+47|Summoning Portal|FX_TEST_47_Summoning_Portal.txt|6
+48|Divine Radiance|FX_TEST_48_Divine_Radiance.txt|6
+49|Soft Breathing|FX_TEST_49_Soft_Breathing.txt|7
+50|Film Projector|FX_TEST_50_Film_Projector.txt|7
+51|Television Glow|FX_TEST_51_Television_Glow.txt|7
+52|Passing Headlights|FX_TEST_52_Passing_Headlights.txt|7
+53|Sunrise|FX_TEST_53_Sunrise.txt|7
+54|Sunset|FX_TEST_54_Sunset.txt|7
+55|Dream Sequence|FX_TEST_55_Dream_Sequence.txt|7
+56|Cinematic Reveal|FX_TEST_56_Cinematic_Reveal.txt|7
+57|Triple-Lamp Chase|FX_TEST_57_Triple_Lamp_Chase.txt|8
+58|Color Orbit|FX_TEST_58_Color_Orbit.txt|8
+59|Random Walk|FX_TEST_59_Random_Walk.txt|8
+60|Wave Interference|FX_TEST_60_Wave_Interference.txt|8
+61|Organic Chaos|FX_TEST_61_Organic_Chaos.txt|8
+62|Breathing Spectrum|FX_TEST_62_Breathing_Spectrum.txt|8
+63|Light Echo|FX_TEST_63_Light_Echo.txt|8
+64|Custom Sequencer|FX_TEST_64_Custom_Sequencer.txt|8
+65|Rembrandt Studio|FX_TEST_065_Rembrandt_Studio.txt|9
+66|Butterfly Beauty|FX_TEST_066_Butterfly_Beauty.txt|9
+67|Split Portrait|FX_TEST_067_Split_Portrait.txt|9
+68|Loop Lighting|FX_TEST_068_Loop_Lighting.txt|9
+69|Clamshell Beauty|FX_TEST_069_Clamshell_Beauty.txt|9
+70|High-Key Studio|FX_TEST_070_High_Key_Studio.txt|9
+71|Low-Key Dramatic|FX_TEST_071_Low_Key_Dramatic.txt|9
+72|Three-Point Studio|FX_TEST_072_Three_Point_Studio.txt|9
+73|Theater Spotlight|FX_TEST_073_Theater_Spotlight.txt|10
+74|Concert Wash|FX_TEST_074_Concert_Wash.txt|10
+75|Moving Stage Lights|FX_TEST_075_Moving_Stage_Lights.txt|10
+76|Rock Concert|FX_TEST_076_Rock_Concert.txt|10
+77|Theater Fade|FX_TEST_077_Theater_Fade.txt|10
+78|Follow Spotlight|FX_TEST_078_Follow_Spotlight.txt|10
+79|Stage Color Chase|FX_TEST_079_Stage_Color_Chase.txt|10
+80|Grand Finale|FX_TEST_080_Grand_Finale.txt|10
+81|Police Red & Blue|FX_TEST_081_Police_Red_Blue.txt|11
+82|Fire Engine Red|FX_TEST_082_Fire_Engine_Red.txt|11
+83|Ambulance Emergency|FX_TEST_083_Ambulance_Emergency.txt|11
+84|Hazard Warning|FX_TEST_084_Hazard_Warning.txt|11
+85|Emergency Strobe|FX_TEST_085_Emergency_Strobe.txt|11
+86|Security Alarm|FX_TEST_086_Security_Alarm.txt|11
+87|Evacuation Lighting|FX_TEST_087_Evacuation_Lighting.txt|11
+88|Power Failure|FX_TEST_088_Power_Failure.txt|11
+89|Shallow Water|FX_TEST_089_Shallow_Water.txt|12
+90|Deep Ocean|FX_TEST_090_Deep_Ocean.txt|12
+91|Swimming Pool|FX_TEST_091_Swimming_Pool.txt|12
+92|Tropical Reef|FX_TEST_092_Tropical_Reef.txt|12
+93|Underwater Caustics|FX_TEST_093_Underwater_Caustics.txt|12
+94|Submarine Interior|FX_TEST_094_Submarine_Interior.txt|12
+95|Bioluminescent Depths|FX_TEST_095_Bioluminescent_Depths.txt|12
+96|Abyssal Darkness|FX_TEST_096_Abyssal_Darkness.txt|12
+97|Cozy Living Room|FX_TEST_097_Cozy_Living_Room.txt|13
+98|Warm Bedroom|FX_TEST_098_Warm_Bedroom.txt|13
+99|Romantic Candlelight|FX_TEST_099_Romantic_Candlelight.txt|13
+100|Modern Apartment|FX_TEST_100_Modern_Apartment.txt|13
+101|Fireplace Ambience|FX_TEST_101_Fireplace_Ambience.txt|13
+102|Soft Nightlight|FX_TEST_102_Soft_Nightlight.txt|13
+103|Luxury Lounge|FX_TEST_103_Luxury_Lounge.txt|13
+104|Relaxing Spa|FX_TEST_104_Relaxing_Spa.txt|13
+105|Disco Color Chase|FX_TEST_105_Disco_Color_Chase.txt|14
+106|RGB Dance Floor|FX_TEST_106_RGB_Dance_Floor.txt|14
+107|EDM Bass Pulse|FX_TEST_107_EDM_Bass_Pulse.txt|14
+108|Techno Strobe|FX_TEST_108_Techno_Strobe.txt|14
+109|Rave Rainbow|FX_TEST_109_Rave_Rainbow.txt|14
+110|UV Blacklight|FX_TEST_110_UV_Blacklight.txt|14
+111|Laser Club Simulation|FX_TEST_111_Laser_Club_Simulation.txt|14
+112|DJ Booth Glow|FX_TEST_112_DJ_Booth_Glow.txt|14
+113|Club Spotlight|FX_TEST_113_Club_Spotlight.txt|14
+114|Neon Color Fade|FX_TEST_114_Neon_Color_Fade.txt|14
+115|Trance Wave|FX_TEST_115_Trance_Wave.txt|14
+116|House Music Pulse|FX_TEST_116_House_Music_Pulse.txt|14
+117|Cyberpunk Club|FX_TEST_117_Cyberpunk_Club.txt|14
+118|VIP Lounge|FX_TEST_118_VIP_Lounge.txt|14
+119|Dance Floor Blackout|FX_TEST_119_Dance_Floor_Blackout.txt|14
+120|Festival Finale|FX_TEST_120_Festival_Finale.txt|14
